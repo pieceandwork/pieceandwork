@@ -50,7 +50,7 @@ I'm a Backend Developer focused on **Python** and **Django**. I love building sc
 
 ### 📌 Featured Projects
 
-*   🛒 **[ShopByKv](https://github.com/pieceandwork/ShopByKv)** — Full-stack e-commerce platform for PC components built with Django, Redis, and Gmail SMTP.
+*   🛒 **[ShopByKv](https://github.com/pieceandwork/ShopByKv)** — Full-stack platform for PC components built with Django, Redis, and Gmail SMTP.
 *   🎨 **[My Portfolio](https://github.com/pieceandwork/pieceandwork.github.io)** — Personal SPA portfolio website written in pure HTML, CSS, and JS.
 
 ---
