@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Python+%2F+Django+Developer;Building+scalable+web+apps" alt="Typing SVG" />
+</div>
+
 ### Hi there, I'm Yaroslav! 👋
 
 I'm a Backend Developer focused on **Python** and **Django**. I love building scalable web applications, platforms, and APIs from scratch to deployment.
@@ -38,7 +42,8 @@ I'm a Backend Developer focused on **Python** and **Django**. I love building sc
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pieceandwork&show_icons=true&theme=radium&hide_border=true&cache_seconds=86400" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pieceandwork&show_icons=true&theme=radium&hide_border=true" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pieceandwork&theme=radium&hide_border=true" alt="" />
 </p>
 
 ---
