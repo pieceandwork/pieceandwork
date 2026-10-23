@@ -52,7 +52,7 @@ I'm a Backend Developer focused on **Python** and **Django**. I love building sc
 
 *   🛒 **[ShopByKv](https://github.com/pieceandwork/ShopByKv)** — Full-stack platform for PC components built with Django, Redis, and Gmail SMTP.
 *   🎨 **[My Portfolio](https://github.com/pieceandwork/pieceandwork.github.io)** — Personal SPA portfolio website written in pure HTML, CSS, and JS.
-*   🎮 **[Guess The Number](https://github.com/pieceandwork/Guess-The-Number)** - Python mini-game with statistics tracking and JSON data storage.
+*   🎮 **[Guess the Number](https://github.com/pieceandwork/Guess-the-Number)** - Python mini-game with statistics tracking and JSON data storage.
 
 ---
 
